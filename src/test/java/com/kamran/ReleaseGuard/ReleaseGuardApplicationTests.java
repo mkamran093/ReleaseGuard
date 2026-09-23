@@ -1,0 +1,13 @@
+package com.kamran.ReleaseGuard;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ReleaseGuardApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
